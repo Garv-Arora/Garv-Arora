@@ -1,4 +1,4 @@
-# Garv Arora  
+# Garvv Aroraa  
 [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://in.linkedin.com/in/garv-arora) 
 [![Instagram](https://img.icons8.com/color/24/000000/instagram-new.png)](https://www.instagram.com/garv__arora__/)
 [![Twitter](https://img.icons8.com/color/24/000000/twitter.png)](https://x.com/industrial_garv)
