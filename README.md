@@ -1,220 +1,349 @@
-# Garv Arora
+<div align="center">
 
-**Aspiring Product Manager | AI Workflow Products | Ex-Manufacturing/Data Engineer | Building SolvX.AI**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:14B8A6&text=Garv%20Arora&fontColor=FFFFFF&fontSize=58&fontAlignY=35&desc=AI%20Workflow%20Products%20%7C%20Aspiring%20Product%20Manager%20%7C%20Building%20SolvX.AI&descAlignY=58&descSize=18&animation=fadeIn" alt="Garv Arora animated banner" />
 
-I build and document AI product systems across workflow automation, lead generation, document intelligence, and manufacturing operations. I previously worked in manufacturing and data at Mondelez, and I now freelance through **SolvX.AI**, where I design AI automations, workflow engines, dashboards, and GTM assets for service and manufacturing businesses.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1200&color=2563EB&center=true&vCenter=true&width=900&lines=Aspiring+Product+Manager+for+AI+Workflow+Products;Ex-Mondelez+Engineer+building+SolvX.AI;I+turn+messy+business+workflows+into+usable+products;Product+Strategy+%2B+AI+Systems+%2B+GTM+Thinking)](https://git.io/typing-svg)
 
-My strongest product interest is simple: turning messy, high-friction business workflows into products that are easier to trust, operate, measure, and scale.
+<br>
 
-[LinkedIn](https://linkedin.com/in/garv-arora/) | [GitHub](https://github.com/Garv-Arora) | [Email](mailto:garv.co.21@gmail.com) | [SolvX.AI](https://solvx-ai.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Garv%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-arora/)
+[![Email](https://img.shields.io/badge/Email-garv.co.21%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garv.co.21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Garv--Arora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Garv-Arora)
+[![SolvX](https://img.shields.io/badge/SolvX.AI-AI%20Workflow%20Agency-14B8A6?style=for-the-badge)](https://solvx-ai.pages.dev/)
 
----
+<br>
 
-## What I Am Building Now
+![Product Strategy](https://img.shields.io/badge/Product%20Strategy-0F172A?style=flat-square)
+![AI Product](https://img.shields.io/badge/AI%20Product-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Document%20AI-7C3AED?style=flat-square)
+![GTM](https://img.shields.io/badge/GTM%20Systems-14B8A6?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-F97316?style=flat-square)
+![B2B SaaS](https://img.shields.io/badge/B2B%20SaaS-111827?style=flat-square)
 
-### SolvX.AI
-
-Freelance AI agency partner building workflow automation systems for B2B local businesses, service companies, and manufacturing-facing teams.
-
-**What I own**
-
-- Agency positioning, branding, website, offer architecture, and GTM assets.
-- AI lead-generation and follow-up workflows across lead capture, enrichment, scoring, CRM visibility, and reporting.
-- AI audits and employee training to identify productivity leaks and practical automation opportunities.
-- Manufacturing and service-business workflow concepts around pipeline visibility, response systems, and operational dashboards.
-
-**Core product thesis**
-
-Most businesses do not need "AI transformation" as a vague promise. They need specific workflow products that reduce follow-up leakage, improve visibility, remove manual handoffs, and make decisions easier to track.
+</div>
 
 ---
 
-## Selected PM Case Studies
+## 🚀 15-Second Profile
 
-These are product-management-first projects. Each one includes product thinking around users, workflows, positioning, MVP scope, metrics, trust, and launch sequencing.
+I am an **aspiring Product Manager** building at the intersection of **AI workflows, B2B SaaS, automation, GTM systems, and operations-heavy products**.
 
-| Product | Category | What It Proves | Links |
-| --- | --- | --- | --- |
-| **Still** | Trust-first CBT companion | Consumer AI product strategy, privacy-first UX, safety framing, and emotionally careful onboarding | [Website](https://still-app-delta.vercel.app/)<br>[Demo](https://drive.google.com/file/d/1Mx9avutRI6UfPVN9s9yfTqWiBHrX4dzH/view?usp=drivesdk)<br>[Playbook](https://drive.google.com/file/d/1TXGa87ZXLTCsi--fISgrsOO1SGXrnSoY/view?usp=drivesdk) |
-| **TreeRAG** | Inspectable RAG for compliance AI | Document intelligence, citation-first retrieval, evidence visibility, evaluation design, and audit-heavy workflows | [Website](https://his-commissioner-oct-heights.trycloudflare.com/)<br>[Demo](https://drive.google.com/file/d/1yjLtAZRbGKj8YlnhQUbcB9deNUGKoYnA/view?usp=drivesdk)<br>[Playbook](https://drive.google.com/file/d/1Xk6c5OAsLFcpcJNFAuEZRkFwIc1KW29U/view?usp=drivesdk) |
-| **LeadFlow** | Autonomous SDR product system | B2B SaaS workflow design, agentic GTM loops, approvals, prioritization, pipeline evidence, and outcome metrics | [Website](https://frontend-theta-gold-13.vercel.app/)<br>[Demo](https://drive.google.com/file/d/1oCs__JRmmQYHGE60sAC9qowaomGxCSzv/view?usp=drivesdk)<br>[Playbook](https://drive.google.com/file/d/1YSAkTDOq9nowr7sb5-3-0sBFI-BIngLH/view?usp=drivesdk) |
+Previously, I worked as a **Production and Data Engineer at Mondelez**, where I saw how real businesses run on messy workflows, manual follow-ups, Excel trackers, operator behavior, approval chains, and invisible productivity leaks.
 
----
+Now I am building **SolvX.AI** as a freelance AI agency partner, designing workflow engines, automations, dashboards, and GTM assets for service and manufacturing businesses.
 
-## Product Skill Stack
-
-### Product Strategy
-
-- Market mapping, competitor analysis, wedge selection, positioning, ICP definition, and product narrative.
-- Translating vague business goals into specific product bets, MVPs, and validation plans.
-- Understanding when not to build a generic platform and when to start with a sharp workflow wedge.
-
-### Customer Discovery
-
-- JTBD interviews, persona mapping, user journey mapping, pain-intensity scoring, and workflow observation.
-- Separating stated preferences from actual behavior, urgency, budget, and repeat frequency.
-- Converting qualitative insights into roadmap decisions and testable product hypotheses.
-
-### Product Execution
-
-- PRDs, MVP scoping, roadmap planning, prioritization, release planning, acceptance criteria, and launch sequencing.
-- Writing clear product specs that connect customer pain, workflow logic, edge cases, metrics, and user experience.
-- Managing tradeoffs across speed, quality, usability, technical complexity, and business value.
-
-### Metrics And Experimentation
-
-- Activation, retention, conversion funnels, cohort analysis, North Star metrics, leading indicators, and health metrics.
-- Experiment design, success criteria, instrumentation planning, and post-launch learning loops.
-- Distinguishing vanity metrics from metrics that reflect real user behavior and business outcomes.
-
-### AI Product Management
-
-- RAG product design, document intelligence workflows, AI search, AI evaluation, human-in-the-loop review, and prompt workflow design.
-- Hallucination risk management, citation UX, confidence signals, fallback paths, and trust-building product patterns.
-- Understanding AI systems as products: data quality, retrieval quality, model behavior, latency, cost, accuracy, and user trust.
-
-### GTM And Business Thinking
-
-- ICP selection, landing-page positioning, pricing hypotheses, pilot design, sales enablement, customer proof points, and ROI framing.
-- Building product stories that are specific enough for buyers to understand why the product exists and why now.
-
-### Technical Fluency
-
-- Python, Pandas, NumPy, scikit-learn, notebooks, APIs, workflow automation, dashboards, RAG concepts, and LLM orchestration.
-- Enough engineering fluency to scope intelligently, communicate with builders, identify constraints, and prototype when needed.
+> My product thesis: the best AI products will not feel like chatbots. They will feel like reliable workflow control rooms.
 
 ---
 
-## AI Papers And Product Notes
+## 🧭 What I Am Building Now
 
-I use research papers as product inputs, not just theory. For each paper, I try to answer: **what does this change about how an AI product should be designed, evaluated, trusted, or shipped?**
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🧠 SolvX.AI</h3>
+      <p><b>AI workflow agency for service and manufacturing businesses.</b></p>
+      <ul>
+        <li>Owned agency positioning, branding, website, offer architecture, and GTM assets.</li>
+        <li>Designed lead capture, enrichment, scoring, follow-up, CRM visibility, and reporting workflows.</li>
+        <li>Ran AI audits and employee trainings to identify productivity leaks.</li>
+        <li>Built productized service concepts around pipeline visibility and response systems.</li>
+      </ul>
+      <p>
+        <a href="https://solvx-ai.pages.dev/">Website</a> ·
+        <a href="https://drive.google.com/file/d/1aXnTguDHDZGZ8oZjQXCqPdV-7CwWdQW8/view?usp=drivesdk">Playbook 1</a> ·
+        <a href="https://drive.google.com/file/d/14fCzq5k3EUvU23NQyF2i6eyEKE_VJRy6/view?usp=drivesdk">Playbook 2</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🎯 Current PM Direction</h3>
+      <p><b>I am shaping my profile toward AI product management.</b></p>
+      <ul>
+        <li>Workflow-first AI products</li>
+        <li>Trust, evidence, and evaluation in AI UX</li>
+        <li>GTM automation and revenue workflows</li>
+        <li>Legaltech, CLM, document intelligence, and B2B SaaS</li>
+        <li>Operational products for teams that still run on spreadsheets</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Foundations
+---
 
-| Paper / Topic | What I Study For | Product Implication |
+## 🏆 Featured PM Case Studies
+
+These are not just coding projects. They are **product-management proof-of-work**: strategy, users, workflows, MVP scope, metrics, trust design, and launch thinking.
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🧘 Still</h3>
+      <p><b>Trust-first CBT companion</b></p>
+      <p>Consumer AI product strategy with privacy-first UX, safety framing, honest AI limits, and emotionally careful onboarding.</p>
+      <p><b>Proves:</b> AI safety, user empathy, activation loops, mental-health product judgment.</p>
+      <p>
+        <a href="https://still-app-delta.vercel.app/">Website</a><br>
+        <a href="https://drive.google.com/file/d/1Mx9avutRI6UfPVN9s9yfTqWiBHrX4dzH/view?usp=drivesdk">Demo</a><br>
+        <a href="https://drive.google.com/file/d/1TXGa87ZXLTCsi--fISgrsOO1SGXrnSoY/view?usp=drivesdk">Playbook</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>🌲 TreeRAG</h3>
+      <p><b>Inspectable RAG for compliance AI</b></p>
+      <p>Document intelligence product around citation-first retrieval, evidence visibility, answer traceability, and audit-heavy workflows.</p>
+      <p><b>Proves:</b> RAG product thinking, trust UX, evaluation design, compliance workflows.</p>
+      <p>
+        <a href="https://his-commissioner-oct-heights.trycloudflare.com/">Website</a><br>
+        <a href="https://drive.google.com/file/d/1yjLtAZRbGKj8YlnhQUbcB9deNUGKoYnA/view?usp=drivesdk">Demo</a><br>
+        <a href="https://drive.google.com/file/d/1Xk6c5OAsLFcpcJNFAuEZRkFwIc1KW29U/view?usp=drivesdk">Playbook</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>⚡ LeadFlow</h3>
+      <p><b>Autonomous SDR product system</b></p>
+      <p>B2B SaaS workflow system where AI agents convert ICP signals into qualified sales conversations with human-governed approvals.</p>
+      <p><b>Proves:</b> GTM systems, agentic workflows, prioritization, metrics, sales-product thinking.</p>
+      <p>
+        <a href="https://frontend-theta-gold-13.vercel.app/">Website</a><br>
+        <a href="https://drive.google.com/file/d/1oCs__JRmmQYHGE60sAC9qowaomGxCSzv/view?usp=drivesdk">Demo</a><br>
+        <a href="https://drive.google.com/file/d/1YSAkTDOq9nowr7sb5-3-0sBFI-BIngLH/view?usp=drivesdk">Playbook</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧩 My Product Management Stack
+
+<table>
+  <tr>
+    <td><b>🧭 Strategy</b></td>
+    <td>Market mapping, wedge selection, positioning, ICP definition, competitive analysis, product narrative.</td>
+  </tr>
+  <tr>
+    <td><b>🔎 Discovery</b></td>
+    <td>JTBD interviews, user journeys, persona mapping, pain-intensity scoring, workflow observation, insight synthesis.</td>
+  </tr>
+  <tr>
+    <td><b>🛠 Execution</b></td>
+    <td>PRDs, MVP scoping, roadmaps, prioritization, release planning, acceptance criteria, launch sequencing.</td>
+  </tr>
+  <tr>
+    <td><b>📊 Metrics</b></td>
+    <td>Activation, retention, funnels, cohorts, North Star metrics, instrumentation, experiments, post-launch learning loops.</td>
+  </tr>
+  <tr>
+    <td><b>🤖 AI Product</b></td>
+    <td>RAG, AI evals, prompt workflows, hallucination risk, citation UX, confidence signals, human-in-the-loop review.</td>
+  </tr>
+  <tr>
+    <td><b>📣 GTM</b></td>
+    <td>ICP selection, pilot design, pricing hypotheses, landing-page positioning, sales enablement, ROI framing.</td>
+  </tr>
+  <tr>
+    <td><b>⚙️ Technical Fluency</b></td>
+    <td>Python, APIs, dashboards, LLM orchestration, automation workflows, data analysis, product prototyping.</td>
+  </tr>
+</table>
+
+---
+
+## 🛠 Tools I Can Think With
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=python,git,github,figma,notion,vscode,vercel,cloudflare&theme=light&perline=8)](https://skillicons.dev)
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRDs-Product%20Specs-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roadmaps-Launch%20Planning-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JTBD-User%20Research-14B8A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-AI%20Evaluation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GTM-ICP%20%2B%20Pilots-F97316?style=for-the-badge" />
+</p>
+
+---
+
+## 📚 AI Research Lab
+
+I read AI papers as product input. The question I care about is not only **"how does this work?"** but **"what should this change about the product experience?"**
+
+<details open>
+<summary><b>🧠 Foundations</b></summary>
+
+| Paper / Topic | What I Study | Product Implication |
 | --- | --- | --- |
-| **Attention Is All You Need** | Transformer architecture, attention, sequence modeling | Why modern AI products can reason over context, but also why context design matters. |
-| **BERT** | Bidirectional language understanding | Search, classification, and semantic understanding patterns in product workflows. |
-| **GPT-style language models** | Generative reasoning, instruction following, scaling behavior | Where generation helps, where it introduces risk, and where workflow constraints are needed. |
+| Attention Is All You Need | Transformers, attention, context handling | Context design is a product decision, not only a model decision. |
+| BERT | Bidirectional language understanding | Useful for semantic search, classification, and workflow understanding. |
+| GPT-style models | Generation, instruction following, scaling | Generation needs constraints, evaluation, and UX guardrails. |
 
-### Retrieval And RAG
+</details>
 
-| Paper / Topic | What I Study For | Product Implication |
+<details open>
+<summary><b>🌲 Retrieval, RAG, And Document Intelligence</b></summary>
+
+| Paper / Topic | What I Study | Product Implication |
 | --- | --- | --- |
-| **Retrieval-Augmented Generation** | Combining retrieval with generation | AI products need evidence paths, not just fluent answers. |
-| **DPR / Dense Passage Retrieval** | Semantic retrieval | Retrieval quality often matters more than model size in knowledge-heavy products. |
-| **ColBERT** | Late-interaction retrieval | Better retrieval UX can improve trust in legal, compliance, and document workflows. |
-| **HyDE** | Hypothetical document embeddings | Query expansion can help users who do not know the exact words inside source documents. |
+| Retrieval-Augmented Generation | Retrieval plus generation | AI products need evidence paths, not just fluent answers. |
+| DPR | Dense semantic retrieval | Retrieval quality often matters more than model size. |
+| ColBERT | Late-interaction retrieval | Better retrieval UX improves trust in legal/compliance products. |
+| HyDE | Query expansion with hypothetical docs | Helps users who do not know the exact language in source documents. |
 
-### Agents And Tool Use
+</details>
 
-| Paper / Topic | What I Study For | Product Implication |
+<details open>
+<summary><b>🤖 Agents And Tool Use</b></summary>
+
+| Paper / Topic | What I Study | Product Implication |
 | --- | --- | --- |
-| **ReAct** | Reasoning plus action | Agentic products should show traces, decisions, and tool usage where trust matters. |
-| **Toolformer** | Language models using tools | AI workflows become more valuable when models can call reliable tools instead of guessing. |
-| **Reflexion** | Feedback-driven self-improvement | Learning loops need explicit feedback, error review, and measurable improvement. |
+| ReAct | Reasoning plus action | Agentic products need visible traces and decision logs. |
+| Toolformer | Tool-using language models | AI should call reliable tools instead of guessing. |
+| Reflexion | Feedback-driven improvement | Learning loops need explicit review, feedback, and error memory. |
 
-### Evaluation And Trust
+</details>
 
-| Paper / Topic | What I Study For | Product Implication |
+<details open>
+<summary><b>🧪 Evaluation, Trust, And Safety</b></summary>
+
+| Paper / Topic | What I Study | Product Implication |
 | --- | --- | --- |
-| **HELM** | Holistic model evaluation | AI products should be judged across accuracy, robustness, fairness, cost, and user impact. |
-| **RAGAS** | RAG evaluation | Retrieval systems need metrics for faithfulness, answer relevance, and context precision. |
-| **LLM-as-a-Judge / MT-Bench** | Automated evaluation | AI evaluation can scale, but must be calibrated with human review for high-stakes workflows. |
+| HELM | Holistic model evaluation | AI products should be judged on accuracy, robustness, cost, fairness, and UX impact. |
+| RAGAS | RAG evaluation | Retrieval systems need faithfulness, answer relevance, and context precision metrics. |
+| LLM-as-a-Judge / MT-Bench | Automated evaluation | Scalable evals need calibration with human review in high-stakes workflows. |
+| RLHF / Constitutional AI | Alignment and safety rules | Product teams must define what "good behavior" means in context. |
 
-### Safety And Alignment
-
-| Paper / Topic | What I Study For | Product Implication |
-| --- | --- | --- |
-| **RLHF** | Aligning model behavior with human preference | Product teams must define what "good behavior" means for their user and domain. |
-| **Constitutional AI** | Rule-based alignment | Safety rules can become product constraints, not just backend policies. |
-| **Scalable Oversight** | Supervising systems that exceed human review capacity | High-risk products need escalation paths, review queues, and uncertainty handling. |
+</details>
 
 ---
 
-## Product Teardowns I Want To Do
+## 🧪 Product Teardown Queue
 
-I am actively studying products that combine workflow depth, product taste, AI, and business clarity.
-
-| Product | Why It Matters |
-| --- | --- |
-| **Cursor** | AI-native productivity, developer workflow integration, habit formation. |
-| **Perplexity** | Search UX, citation trust, answer framing, and consumer AI behavior. |
-| **Clay** | GTM automation, data enrichment, workflow flexibility, and power-user UX. |
-| **Linear** | Product taste, speed, opinionated workflow design, and team adoption. |
-| **Notion AI** | AI inside an existing workspace, information architecture, and collaboration. |
-| **Ironclad / SpotDraft / Icertis** | CLM workflows, enterprise legal AI, contract intelligence, and workflow automation. |
-
----
-
-## How I Think About Products
-
-Good products are not just feature lists. They are operating systems for a repeated pain.
-
-My default product questions:
-
-- Who has the pain, how often does it happen, and what does it cost when ignored?
-- What workflow exists today, even if it is messy, manual, or spreadsheet-driven?
-- Where does trust break: data, UX, approvals, explainability, ownership, or incentives?
-- What is the smallest product that creates a measurable before-and-after?
-- Which user behavior proves the product is becoming useful?
-- What should the product refuse to do until it earns more trust?
+<table>
+  <tr>
+    <td><b>Cursor</b></td>
+    <td>AI-native productivity, habit formation, developer workflow integration.</td>
+  </tr>
+  <tr>
+    <td><b>Perplexity</b></td>
+    <td>Search UX, citations, trust, answer framing, consumer AI behavior.</td>
+  </tr>
+  <tr>
+    <td><b>Clay</b></td>
+    <td>GTM automation, enrichment workflows, power-user UX, data products.</td>
+  </tr>
+  <tr>
+    <td><b>Linear</b></td>
+    <td>Product taste, speed, opinionated workflow design, team adoption.</td>
+  </tr>
+  <tr>
+    <td><b>Ironclad / SpotDraft / Icertis</b></td>
+    <td>CLM workflows, legal AI, contract intelligence, and enterprise workflow automation.</td>
+  </tr>
+</table>
 
 ---
 
-## Experience Snapshot
+## 🧠 Product Operating Principles
 
-### SolvX.AI
-
-**Freelance AI Agency Partner**
-
-- Building AI workflow products for lead generation, follow-up, dashboards, and business automation.
-- Working with B2B local businesses in the US and Australia alongside an email agency from Bangalore.
-- Designing the agency brand, website, positioning, GTM, and productized service offers.
-
-### Mondelez International
-
-**Production and Data Engineer, Baddi Plant**
-
-- Led productivity projects as interim Utilities Lead, including ETP consolidation and preventive-maintenance restructuring for maintenance and repair cost reduction.
-- Helped establish plant IoT infrastructure for line-level energy visibility.
-- Moved into Manufacturing as Production Engineer, managing shifts, unionized manpower, and improvement projects around CIL, Centerline, MTBF, efficiency losses, and SMED.
+```text
+1. Start with the workflow, not the feature.
+2. Find the repeated pain, not the loudest request.
+3. Ship the smallest before-and-after that creates trust.
+4. Measure behavior, not applause.
+5. For AI products, show evidence before asking for belief.
+6. Do not build a platform until a wedge is earning pull.
+```
 
 ---
 
-## Repository Map
+## 📈 GitHub Signal
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Garv-Arora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Garv Arora GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv-Arora&layout=compact&theme=tokyonight&hide_border=true" alt="Garv Arora top languages" />
+
+<br>
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Garv-Arora&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+[![Garv's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Garv-Arora&theme=react-dark&hide_border=true&area=true&custom_title=Product%20Work%20In%20Public)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🗺 Repository Map
 
 If you are reviewing my GitHub, start here:
 
-| Repo / Asset | Purpose |
+| Repo / Asset | Why It Exists |
 | --- | --- |
 | **PM Portfolio** | Product case studies, PRDs, teardown notes, research notes, metrics, and roadmaps. |
 | **SolvX.AI** | AI agency positioning, workflows, automation systems, and GTM assets. |
 | **LeadFlow** | Autonomous SDR workflow product and GTM automation case study. |
-| **TreeRAG** | RAG/document intelligence product case study focused on inspectability and trust. |
+| **TreeRAG** | RAG/document intelligence case study focused on inspectability and trust. |
 | **Still** | Consumer AI product case study focused on safety, privacy, and emotional UX. |
 | **Manufacturing Ops AI** | Operations, productivity, IoT visibility, and manufacturing workflow analytics. |
 
 ---
 
-## What I Am Looking For
+## 💼 Experience Snapshot
 
-I am looking for product roles where I can combine:
+### 🧠 SolvX.AI
 
-- AI product thinking
-- Workflow-heavy problem solving
-- Customer discovery
-- Product strategy
-- Technical fluency
-- Strong execution and documentation
+**Freelance AI Agency Partner**
 
-Best-fit roles: **APM, Associate Product Manager, Product Analyst, AI Product Intern, Product Strategy Intern, Founder's Office/Product role**, especially in AI SaaS, workflow automation, legaltech, B2B SaaS, revenue automation, or operations-heavy products.
+- Building AI workflow products for lead generation, follow-up, dashboards, and business automation.
+- Working with B2B local businesses in the US and Australia alongside an email agency from Bangalore.
+- Designing agency brand, website, positioning, GTM, and productized service offers.
+
+### 🏭 Mondelez International
+
+**Production and Data Engineer, Baddi Plant**
+
+- Led productivity projects as interim Utilities Lead, including ETP consolidation and preventive-maintenance restructuring.
+- Helped establish plant IoT infrastructure for line-level energy visibility.
+- Managed manufacturing shifts, unionized manpower, and improvement projects around CIL, Centerline, MTBF, efficiency losses, and SMED.
 
 ---
 
-## Contact
+## 🎯 What I Am Looking For
 
-- LinkedIn: [linkedin.com/in/garv-arora](https://linkedin.com/in/garv-arora/)
-- GitHub: [github.com/Garv-Arora](https://github.com/Garv-Arora)
-- Email: [garv.co.21@gmail.com](mailto:garv.co.21@gmail.com)
-- SolvX.AI: [solvx-ai.pages.dev](https://solvx-ai.pages.dev/)
+I am looking for roles where I can combine:
+
+```text
+AI product thinking
++ workflow-heavy problem solving
++ customer discovery
++ technical fluency
++ sharp product documentation
++ GTM curiosity
+```
+
+Best-fit roles:
+
+**APM · Associate Product Manager · Product Analyst · AI Product Intern · Product Strategy Intern · Founder's Office / Product**
+
+Especially interested in:
+
+**AI SaaS · Workflow Automation · Legaltech · CLM · B2B SaaS · GTM Automation · Operations-heavy Products**
+
+---
+
+<div align="center">
+
+### ⚡ If a product makes a messy workflow feel obvious, measurable, and trustworthy, I want to understand why.
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-arora/)
+[![Email](https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garv.co.21@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:14B8A6,55:2563EB,100:0F172A" alt="footer wave" />
+
+</div>
