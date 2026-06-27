@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=E6E6E6&section=header&text=SYSTEMS%20%2F%20WORKFLOWS%20%2F%20AI%20PRODUCTS&fontColor=1C1917&fontSize=28&fontAlignY=52&animation=fadeIn" alt="SolvX-style stone grid header" />
 
 [![Garv Arora](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=76&duration=3000&pause=900&color=C8814A&center=true&vCenter=true&width=980&height=94&lines=GARV+ARORA;AI+PRODUCT+%2F+APM;USEFUL+AI+PRODUCTS)](https://git.io/typing-svg)
 
