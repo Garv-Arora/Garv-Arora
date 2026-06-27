@@ -1,26 +1,28 @@
 <div align="center">
 
-<img width="100%" src="./assets/solvx-profile-header.svg" alt="Garv Arora profile header with SolvX-style grid background" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=E6E6E6&section=header&text=SYSTEMS%20%2F%20WORKFLOWS%20%2F%20AI%20PRODUCTS&fontColor=1C1917&fontSize=28&fontAlignY=52&animation=fadeIn" alt="SolvX-style stone grid header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=34&duration=2300&pause=700&color=C8814A&center=true&vCenter=true&width=980&lines=AI+PRODUCT+%2F+APM;WORKFLOW+MAPPING+BEFORE+AUTOMATION;PRODUCT+PROOF+%2B+GTM+SYSTEMS+%2B+DOCUMENT+AI;USEFUL+AI+PRODUCTS+FROM+MESSY+WORKFLOWS)](https://git.io/typing-svg)
+[![Garv Arora](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=76&duration=3000&pause=900&color=C8814A&center=true&vCenter=true&width=980&height=94&lines=GARV+ARORA;AI+PRODUCT+%2F+APM;USEFUL+AI+PRODUCTS)](https://git.io/typing-svg)
+
+[![Tagline](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=31&duration=2400&pause=700&color=F5F0EB&center=true&vCenter=true&width=980&height=48&lines=USEFUL+AI+PRODUCTS+FROM+MESSY+WORKFLOWS;WORKFLOW+MAPPING+BEFORE+AUTOMATION;PRODUCT+PROOF+%2B+GTM+SYSTEMS+%2B+DOCUMENT+AI)](https://git.io/typing-svg)
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE%20WEBSITE-1C1917?style=for-the-badge&labelColor=C8814A&logo=netlify&logoColor=1C1917)](https://garvvaroraa.netlify.app/)
 [![Resume](https://img.shields.io/badge/RESUME-PDF-1C1917?style=for-the-badge&labelColor=C8814A&logo=readme&logoColor=1C1917)](./garv_arora_resume_updated.pdf)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-GARV%20ARORA-1C1917?style=for-the-badge&labelColor=C8814A&logo=linkedin&logoColor=1C1917)](https://linkedin.com/in/garv-arora/)
 [![GitHub](https://img.shields.io/badge/GITHUB-GARV--ARORA-1C1917?style=for-the-badge&labelColor=C8814A&logo=github&logoColor=1C1917)](https://github.com/Garv-Arora)
 [![X](https://img.shields.io/badge/X-INDUSTRIAL__GARV-1C1917?style=for-the-badge&labelColor=C8814A&logo=x&logoColor=1C1917)](https://x.com/industrial_garv)
 [![Email](https://img.shields.io/badge/EMAIL-GARV.CO.21%40GMAIL.COM-1C1917?style=for-the-badge&labelColor=C8814A&logo=gmail&logoColor=1C1917)](mailto:garv.co.21@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Garv-Arora&style=for-the-badge&color=C8814A&label=PROFILE+VIEWS)
-
 <br><br>
 
-![Product Strategy](https://img.shields.io/badge/🧭%20PRODUCT%20STRATEGY-1C1917?style=flat-square&labelColor=C8814A)
-![AI Product](https://img.shields.io/badge/⚙️%20AI%20PRODUCT-1C1917?style=flat-square&labelColor=C8814A)
-![Workflow Systems](https://img.shields.io/badge/🧱%20WORKFLOW%20SYSTEMS-1C1917?style=flat-square&labelColor=C8814A)
-![GTM Automation](https://img.shields.io/badge/📣%20GTM%20AUTOMATION-1C1917?style=flat-square&labelColor=C8814A)
-![Document AI](https://img.shields.io/badge/🔎%20DOCUMENT%20AI-1C1917?style=flat-square&labelColor=C8814A)
+![Profile views](https://komarev.com/ghpvc/?username=Garv-Arora&style=for-the-badge&color=C8814A&label=PROFILE+VIEWS)
+![Product Strategy](https://img.shields.io/badge/PRODUCT%20STRATEGY-1C1917?style=flat-square&labelColor=C8814A)
+![AI Product](https://img.shields.io/badge/AI%20PRODUCT-1C1917?style=flat-square&labelColor=C8814A)
+![Workflow Systems](https://img.shields.io/badge/WORKFLOW%20SYSTEMS-1C1917?style=flat-square&labelColor=C8814A)
+![GTM Automation](https://img.shields.io/badge/GTM%20AUTOMATION-1C1917?style=flat-square&labelColor=C8814A)
+![Document AI](https://img.shields.io/badge/DOCUMENT%20AI-1C1917?style=flat-square&labelColor=C8814A)
 
 </div>
 
@@ -28,9 +30,7 @@
 
 ## 🧭 15-Second Profile
 
-I am **Garv Arora**, an aspiring Product Manager building proof around **AI workflows, B2B SaaS systems, GTM automation, document intelligence, and ops-heavy products**.
-
-My bias is simple:
+I am **Garv Arora**, an aspiring Product Manager building proof around **AI workflows, B2B SaaS systems, GTM automation, document intelligence, and operations-heavy products**.
 
 > **Start with the workflow. Make the messy work visible. Then automate the repeated pain.**
 
@@ -44,8 +44,6 @@ My bias is simple:
 ---
 
 ## ⚙️ Workflow Map
-
-<img width="100%" src="./assets/solvx-workflow-strip.svg" alt="Workflow before feature system map" />
 
 ```txt
 manual work -> workflow map -> system design -> AI where useful -> dashboard -> measured outcome
@@ -161,6 +159,35 @@ flowchart LR
 
 [![Core Icons](https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,postgres,supabase,git,github,figma,notion)](https://skillicons.dev)
 
+<br><br>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-1C1917?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1C1917?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1C1917?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1C1917?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-1C1917?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-C8814A?style=for-the-badge&logo=graphql&logoColor=1C1917)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1C1917?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1C1917?style=for-the-badge&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-1C1917?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Make](https://img.shields.io/badge/Make-1C1917?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-1C1917?style=for-the-badge&logo=zapier&logoColor=FF4F00)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C1917?style=for-the-badge&logo=pinecone&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-1C1917?style=for-the-badge&logo=qdrant&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C1917?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C1917?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Playwright](https://img.shields.io/badge/Playwright-1C1917?style=for-the-badge&logo=playwright&logoColor=45BA4B)
+![Apify](https://img.shields.io/badge/Apify-1C1917?style=for-the-badge&logo=apify&logoColor=97C93D)
+![Clay](https://img.shields.io/badge/Clay-C8814A?style=for-the-badge&logo=clay&logoColor=1C1917)
+![Apollo](https://img.shields.io/badge/Apollo-1C1917?style=for-the-badge&logo=apollo&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-1C1917?style=for-the-badge&logo=hubspot&logoColor=FF7A59)
+![Airtable](https://img.shields.io/badge/Airtable-1C1917?style=for-the-badge&logo=airtable&logoColor=18BFFF)
+![Slack](https://img.shields.io/badge/Slack-1C1917?style=for-the-badge&logo=slack&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-1C1917?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![Runway](https://img.shields.io/badge/Runway-1C1917?style=for-the-badge&logo=runway&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-1C1917?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Firecrawl](https://img.shields.io/badge/Firecrawl-C8814A?style=for-the-badge&logo=fireship&logoColor=1C1917)
+
 </div>
 
 | Layer | Tools I can use, prototype with, or productize around |
@@ -186,25 +213,6 @@ flowchart LR
 | 🛠️ ReAct | Agentic systems need visible traces, tool calls, checkpoints, and human override. |
 | 🧪 RAGAS / RAG evaluation | AI quality needs faithfulness, relevance, context precision, and regression tests. |
 | 🧭 RLHF / Constitutional AI | Good behavior must be defined for the domain, not assumed from the model. |
-
----
-
-## 📈 GitHub Operating Board
-
-<div align="center">
-
-<img width="94%" src="https://github-profile-trophy.vercel.app/?username=Garv-Arora&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=12&margin-h=12&title=Repositories,Commits,PullRequest,Issues,Stars,Followers" alt="Garv Arora GitHub trophies" />
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Garv-Arora&show_icons=true&hide_border=true&bg_color=E6E6E6&title_color=1C1917&text_color=57534E&icon_color=C8814A&ring_color=C8814A" alt="Garv Arora GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garv-Arora&layout=compact&hide_border=true&bg_color=E6E6E6&title_color=1C1917&text_color=57534E" alt="Garv Arora top languages" />
-
-<br>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Garv-Arora&bg_color=E6E6E6&color=1C1917&line=C8814A&point=1C1917&area=true&hide_border=true&custom_title=Garv%20Arora%20%2F%20Build%20Activity" alt="Garv Arora GitHub activity graph" />
-
-</div>
 
 ---
 
@@ -253,6 +261,7 @@ I want to work on products where **workflow depth, customer discovery, product j
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-garvvaroraa.netlify.app-1C1917?style=for-the-badge&logo=netlify&logoColor=1C1917&labelColor=C8814A)](https://garvvaroraa.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-1C1917?style=for-the-badge&logo=linkedin&logoColor=1C1917&labelColor=C8814A)](https://linkedin.com/in/garv-arora/)
 [![Email](https://img.shields.io/badge/EMAIL%20ME-1C1917?style=for-the-badge&logo=gmail&logoColor=1C1917&labelColor=C8814A)](mailto:garv.co.21@gmail.com)
 
